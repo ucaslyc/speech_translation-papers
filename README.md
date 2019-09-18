@@ -7,17 +7,17 @@ This is a paper list for speech translation.
 
 
 ## Dataset
-- Augmenting Librispeech with French Translations: A Multimodal Corpus for Direct Speech Translation Evaluation
+- Augmenting Librispeech with French Translations: A Multimodal Corpus for Direct Speech Translation Evaluation, LREC-2018, [[paper]](https://arxiv.org/abs/1802.03142)
 
 ## Pipeline ST
-- Learning a Translation Model from Word Lattices
-- Learning a Lexicon and Translation Model from Phoneme Lattices
-- Neural Lattice-to-Sequence Models for Uncertain Inputs
-- Using Spoken Word Posterior Features in Neural Machine Translation
-- Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors
-- Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation
-- Lattice Transformer for Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.05551)
-- Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](Self-Attentional Models for Lattice Inputs)
+- Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
+- Learning a Translation Model from Word Lattices, InterSpeech-2016, [[paper]](https://people.eng.unimelb.edu.au/tcohn/papers/adams16is.pdf)
+- Learning a Lexicon and Translation Model from Phoneme Lattices, EMNLP-2016, [[paper]](https://www.aclweb.org/anthology/D16-1263)
+- Neural Lattice-to-Sequence Models for Uncertain Inputs, EMNLP-2017, [[paper]](https://www.aclweb.org/anthology/D17-1145)
+- Using Spoken Word Posterior Features in Neural Machine Translation, IWSLT-2018, [[paper]](https://ahcweb01.naist.jp/papers/conference/2018/201810_IWSLT_kaho-os_1/201810_IWSLT_kaho-os_1.paper.pdf)
+- Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors, InterSpeech-2019, [[paper]](https://arxiv.org/pdf/1904.10997.pdf)
+- Lattice Transformer for Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.05551.pdf)
+- Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
@@ -66,8 +66,8 @@ This is a paper list for speech translation.
 - DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting, Arxiv 2019, [[paper]](https://arxiv.org/abs/1907.12984)
 
 # Workshop
-IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
-IWSLT 2019, [[link]](http://workshop2019.iwslt.org/)
+- IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
+- IWSLT 2019, [[link]](http://workshop2019.iwslt.org/)
 
 # Copyright 
 By volunteers from Institute of Automation，Chinese Academy of Sciences.  
