@@ -28,6 +28,7 @@ This is a paper list for speech translation.
 - A Case Study on Using Speech-to-translation Alignments for Language Documentation, ComputEL-2017, [[paper]](https://www.aclweb.org/anthology/W17-0123)
 - Spoken Term Discovery for Language Documentation Using Translations, SCNLP-2017, [[paper]](https://www.aclweb.org/anthology/W17-4607)
 - Sequence-to-sequence Models Can Directly Translate Foreign Speech, InterSpeech-2017, [[paper]](https://arxiv.org/pdf/1703.08581.pdf)
+- Structured-based Curriculum Learning for End-to-end English-Japanese Speech Translation, InterSpeech-2017, [[paper]](https://arxiv.org/pdf/1802.06003.pdf)
 - End-to-End Speech Translation with the Transformer, IberSPEECH-2018, [[paper]](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_P1-9_Cross-Vila.pdf)
 - Towards Fluent Translations from Disfluent Speech, SLT-2018, [[paper]](https://arxiv.org/abs/1811.03189)
 - Low-resource Speech-to-text Translation, InterSpeech-2018, [[paper]](https://arxiv.org/abs/1803.09164)
