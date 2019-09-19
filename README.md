@@ -8,6 +8,8 @@ This is a paper list for speech translation.
 
 ## Dataset
 - Augmenting Librispeech with French Translations: A Multimodal Corpus for Direct Speech Translation Evaluation, LREC-2018, [[paper]](https://arxiv.org/abs/1802.03142)
+- MuST-C: a Multilingual Speech Translation Corpus, NAACL-2019, [[paper]](https://www.aclweb.org/anthology/N19-1202)
+- MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1907.12895v2.pdf)
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
