@@ -7,7 +7,18 @@ This is a paper list for speech translation.
 
 
 ## Dataset
+- Construction and Utilization of Bilingual Speech Corpus for Simultaneous Machine Interpretation Research, InterSpeech-2005,[[paper]](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1585.pdf)
+- Approach to Corpus-based Interpreting Studies: Developing EPIC (European Parliament Interpreting Corpus), MuTra-2005, [[paper]](http://www.euroconferences.info/proceedings/2005_Proceedings/2005_Bendazzoli_Sandrelli.pdf)
+- Automatic Translation from Parallel Speech: Simultaneous Interpretation as MT Training Data, ASRU-2009, [[paper]](http://isl.anthropomatik.kit.edu/pdf/Paulik2009.pdf)
+- The KIT Lecture Corpus for Speech Translation, LREC-2012, [[paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1121_Paper.pdf)
+- Improved Speech-to-Text Translation with the Fisher and Callhome Spanish–English Speech Translation Corpus, IWSLT-2013, [[paper]](http://www.mt-archive.info/10/IWSLT-2013-Post.pdf)
+- Collection of a Simultaneous Translation Corpus for Comparative Analysis, LREC-2014, [[paper]](https://ahcweb01.naist.jp/papers/conference/2014/201405_LREC_Shimizu_1/201405_LREC_Shimizu_1.paper.pdf)
+- Microsoft Speech Language Translation (MSLT) Corpus: The IWSLT 2016 release for English, French and German, IWSLT-2016, [[paper]](https://workshop2016.iwslt.org/downloads/IWSLT_2016_paper_12.pdf) 
+- The Microsoft Speech Language Translation (MSLT) Corpus for Chinese and Japanese: Conversational Test data for Machine Translation and Speech Recognition, Machine_Translation-2017, [[paper]](https://github.com/MicrosoftTranslator/MSLT-Corpus)
+- Amharic-English Speech Translation in Tourism Domain, SCNLP-2017, [[paper]](https://www.aclweb.org/anthology/W17-4608)
+- A Very Low Resource Language Speech Corpus for Computational Language Documentation Experiment, LREC-2018, [[paper]](https://arxiv.org/pdf/1710.03501.pdf)
 - Augmenting Librispeech with French Translations: A Multimodal Corpus for Direct Speech Translation Evaluation, LREC-2018, [[paper]](https://arxiv.org/abs/1802.03142)
+- A Small Griko-Italian Speech Translation Corpus, SLTU-2019, [[paper]](https://arxiv.org/pdf/1807.10740.pdf)
 - MuST-C: a Multilingual Speech Translation Corpus, NAACL-2019, [[paper]](https://www.aclweb.org/anthology/N19-1202)
 - MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1907.12895v2.pdf)
 
