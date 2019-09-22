@@ -48,7 +48,7 @@ This is a paper list for speech translation.
 - End-to-End Automatic Speech Translation of Audiobooks, ICASSP-2018, [[paper]](https://arxiv.org/abs/1802.04200)
 - Tied Multitask Learning for Neural Speech Translation, NAACL-2018, [[paper]](https://arxiv.org/abs/1802.06655)
 - Towards Unsupervised Speech to Text Translation, ICASSP-2019, [[paper]](https://arxiv.org/pdf/1811.01307.pdf)
-- Leveraging Weakly Supervised Data to Improve End-to-End Speech-to-Text Translation, ICASSP-2019, [[paper]](https://arxiv.org/abs/1811.02050)
+- Leveraging Weakly Supervised Data to Improve End-to-End Speech-to-Text Translation, ICASSP-2019, [[paper]](https://arxiv.org/abs/1811.02050.pdf)
 - Towards End-to-end Speech-to-text Translation with Two-pass Decoding, ICASSP-2019, [[paper]](https://ieeexplore.ieee.org/document/8682801)
 - Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation, TACL-2019, [[paper]](https://arxiv.org/abs/1904.07209)
 - Direct speech-to-speech translation with a sequence-to-sequence model, InterSpeech-2019, [[paper]](https://arxiv.org/pdf/1904.06037)
