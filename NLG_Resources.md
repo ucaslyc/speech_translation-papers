@@ -84,3 +84,6 @@ NLG: Neural Language Generation.
 ## Extensions
 
 1.
+
+## Papers
+- Cross-Lingual Natural Language Generation via Pre-Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10481.pdf)
