@@ -58,7 +58,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09368), [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
 - Domain Adaptive Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09395), [[code]](https://github.com/cookielee77/DAST)
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
-
+- Adapting Language Models for Non-Parallel Author-Stylized Rewriting, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09962.pdf)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
