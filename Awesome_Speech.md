@@ -325,3 +325,5 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
+- **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
+- **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
