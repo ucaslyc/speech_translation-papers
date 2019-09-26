@@ -8,6 +8,7 @@ This is a paper list for style transfer in text. It also contains some related r
 
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/abs/1803.06535)
+- Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP-2019, (https://arxiv.org/pdf/1909.11493.pdf)
 
 ## Parallel Data (Supervised)
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
@@ -72,6 +73,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
 - ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.06564)
+- Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.11493.pdf)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
