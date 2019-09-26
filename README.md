@@ -28,9 +28,11 @@ This is a paper list for speech translation.
 - Learning a Lexicon and Translation Model from Phoneme Lattices, EMNLP-2016, [[paper]](https://www.aclweb.org/anthology/D16-1263)
 - Neural Lattice-to-Sequence Models for Uncertain Inputs, EMNLP-2017, [[paper]](https://www.aclweb.org/anthology/D17-1145)
 - Using Spoken Word Posterior Features in Neural Machine Translation, IWSLT-2018, [[paper]](https://ahcweb01.naist.jp/papers/conference/2018/201810_IWSLT_kaho-os_1/201810_IWSLT_kaho-os_1.paper.pdf)
+- Towards robust neural machine translation, ACL-2018, [[paper]](https://www.aclweb.org/anthology/P18-1163)
 - Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors, InterSpeech-2019, [[paper]](https://arxiv.org/pdf/1904.10997.pdf)
 - Lattice Transformer for Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.05551.pdf)
 - Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
+- Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
@@ -60,7 +62,6 @@ This is a paper list for speech translation.
 - Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.07575.pdf)
 - Adapting Transformer to End-to-end Spoken Language Translation, InterSpeech-2019, [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3045.pdf)
 - Unsupervised phonetic and word level discovery for speech to speech translation for unwritten languages, InterSpeech-2019, [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3026.pdf)
-- Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 
 ## Streaming MT
 - Simultaneous translation of lectures and speeches, Machine Translation-2007, [[paper]](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)
