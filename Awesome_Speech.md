@@ -319,11 +319,12 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
+### Spoken Language Understanding
+- **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
+- **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
+
 ### Interesting papers
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
-
-- **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
-- **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
