@@ -199,7 +199,14 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **An improved hybrid CTC-Attention model for speech recognition**(2018), Zhe Yuan et al. [[pdf]](https://arxiv.org/abs/1810.12020)
 
 - **Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units**(2018), Zhangyu Xiao et al. [[pdf]](https://arxiv.org/abs/1807.04978)
+ 
+- **Speech Recognition With Augmented Synthesized Speech**, Arxiv-2019(google), [[paper]](https://arxiv.org/pdf/1909.11699.pdf)
 
+- **Back-Translation-Style Data Augmentation For End-To-End Asr**, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1807.10893.pdf)
+
+- **Self-Attentional Acoustic Models**, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1803.09519.pdf) 
+
+- **Espresso: A Fast End-To-End Neural Speech Recognition Toolkit**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.08723.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -294,6 +301,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 
+- **Adversarially Trained End-to-end Korean Singing Voice Synthesis System**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1908.01919.pdf)
 
 
 
@@ -316,12 +324,33 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
+
+
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
+
+
+
 
 ### Spoken Language Understanding
 - **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
 - **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
+- **A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02188.pdf) 
+
+
+
+
+### Speech Segmentation
+- An Embedded Segmental K-means Model for Unsupervised Segmentation And Clustering Of Speech, Arxiv-2017, [[paper]](https://arxiv.org/pdf/1703.08135.pdf)
+
+
+
+
+### Emotion Recognition
+- Learning Alignment for Multimodal Emotion Recognition from Speech, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
+
+
+
 
 ### Interesting papers
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
