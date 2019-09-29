@@ -7,6 +7,11 @@ This is a paper list for speech translation.
 
 ## Dataset
 
+
+## Homepages
+王瑞, NICT, [[homepage]](https://wangruinlp.github.io)
+
+
 ## Neural Machine Translation
 - Multilingual Neural Machine Translation With Knowledge Distillation, ICLR-2019, [[paper]](https://arxiv.org/pdf/1902.10461.pdf)
 - Improving Robustness of Machine Translation with Synthetic Noise, NAACL-2019, [[paper]](https://arxiv.org/pdf/1902.09508.pdf)
@@ -67,11 +72,11 @@ This is a paper list for speech translation.
 
 
 
-### Non-autogressive Machine Translation
+## Non-autogressive Machine Translation
 - Pnat: Non-Autoregressive Transformer By Position Learning, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=BJe932EYwS)
 
 
-### Robust Machine Translation
+## Robust Machine Translation
 - MTNT: A Testbed for Machine Translation of Noisy Text, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1050)
 - Synthetic And Natural Noise Both Break Neural Machine Translation, ICLR-2018, [[paper]](http://people.csail.mit.edu/belinkov/assets/pdf/iclr2018.pdf)
 - On the Impact of Various Types of Noise on Neural Machine Translation, NMTG-2018, [[paper]](https://www.aclweb.org/anthology/W18-2709)
