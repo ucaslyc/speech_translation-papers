@@ -208,6 +208,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Espresso: A Fast End-To-End Neural Speech Recognition Toolkit**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.08723.pdf)
 
+- **Self-Supervised Speech Recognition Via Local Prior Matching**, Arxiv-2019, [[paper]](https://openreview.net/pdf?id=rJlDO64KPH)
+
+
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
 
@@ -226,6 +229,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
 
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
+
 
 ### Voice Conversion
 - **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
@@ -341,13 +345,17 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 
 ### Speech Segmentation
-- An Embedded Segmental K-means Model for Unsupervised Segmentation And Clustering Of Speech, Arxiv-2017, [[paper]](https://arxiv.org/pdf/1703.08135.pdf)
+- **An Embedded Segmental K-means Model for Unsupervised Segmentation And Clustering Of Speech**, Arxiv-2017, [[paper]](https://arxiv.org/pdf/1703.08135.pdf)
 
 
+
+### Speech Representations
+- **Vq-Wav2Vec: Self-Supervised Learning Of Discrete Speech Representations**, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=rylwJxrYDS)
+- **Unsupervised Learning Of Efficient And Robust Speech Representations**, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=HJe-blSYvH)
 
 
 ### Emotion Recognition
-- Learning Alignment for Multimodal Emotion Recognition from Speech, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
+- **Learning Alignment for Multimodal Emotion Recognition from Speech**, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
 
 
 
