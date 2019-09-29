@@ -7,7 +7,7 @@ This is a paper list for speech translation.
 
 ## Dataset
 
-## Transfer Learning
+## Neural Machine Translation
 - Multilingual Neural Machine Translation With Knowledge Distillation, ICLR-2019, [[paper]](https://arxiv.org/pdf/1902.10461.pdf)
 - Improved English to Russian Translation by Neural Suffix Prediction, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1801.03615.pdf)
 - Simple, Scalable Adaptation for Neural Machine Translation, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.08478.pdf)
@@ -63,3 +63,4 @@ This is a paper list for speech translation.
 - A Simple Discriminative Training Method For Machine Translation With Large-Scale Features, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09491.pdf)
 - Investigating Multilingual NMT Representations at Scale, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02197.pdf)
 - Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.05683.pdf)
+- Pnat: Non-Autoregressive Transformer By Position Learning, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=BJe932EYwS)
