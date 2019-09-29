@@ -9,6 +9,7 @@ This is a paper list for speech translation.
 
 ## Neural Machine Translation
 - Multilingual Neural Machine Translation With Knowledge Distillation, ICLR-2019, [[paper]](https://arxiv.org/pdf/1902.10461.pdf)
+- Improving Robustness of Machine Translation with Synthetic Noise, NAACL-2019, [[paper]](https://arxiv.org/pdf/1902.09508.pdf)
 - Improved English to Russian Translation by Neural Suffix Prediction, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1801.03615.pdf)
 - Simple, Scalable Adaptation for Neural Machine Translation, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.08478.pdf)
 - Transfer Learning across Languages from Someone Else’s NMT Model, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10955.pdf)
@@ -63,4 +64,18 @@ This is a paper list for speech translation.
 - A Simple Discriminative Training Method For Machine Translation With Large-Scale Features, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09491.pdf)
 - Investigating Multilingual NMT Representations at Scale, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02197.pdf)
 - Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.05683.pdf)
+
+
+
+### Non-autogressive Machine Translation
 - Pnat: Non-Autoregressive Transformer By Position Learning, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=BJe932EYwS)
+
+
+### Robust Machine Translation
+- MTNT: A Testbed for Machine Translation of Noisy Text, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1050)
+- Synthetic And Natural Noise Both Break Neural Machine Translation, ICLR-2018, [[paper]](http://people.csail.mit.edu/belinkov/assets/pdf/iclr2018.pdf)
+- On the Impact of Various Types of Noise on Neural Machine Translation, NMTG-2018, [[paper]](https://www.aclweb.org/anthology/W18-2709)
+- Toward Robust Neural Machine Translation for Noisy Input Sequences, IWSLT-2017，[[paper]](https://pdfs.semanticscholar.org/88ed/f12127a628bed608cae0bdf3700d00824df4.pdf)
+- Towards Robust Neural Machine Translation, Arxiv-2018, [[paper]](Towards Robust Neural Machine Translation)
+- Robust Neural Machine Translation with Joint Textual and Phonetic Embedding, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1810.06729.pdf)
+- Robust Neural Machine Translation with Doubly Adversarial Inputs, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.02443.pdf)
