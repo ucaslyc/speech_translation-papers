@@ -69,11 +69,13 @@ This is a paper list for speech translation.
 - A Simple Discriminative Training Method For Machine Translation With Large-Scale Features, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09491.pdf)
 - Investigating Multilingual NMT Representations at Scale, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02197.pdf)
 - Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.05683.pdf)
+- On the use of BERT for Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.12744.pdf)
 
 
 
 ## Non-autogressive Machine Translation
 - Pnat: Non-Autoregressive Transformer By Position Learning, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=BJe932EYwS)
+
 
 
 ## Robust Machine Translation
