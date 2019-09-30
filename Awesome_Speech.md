@@ -352,6 +352,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 ### Speech Representations
 - **Vq-Wav2Vec: Self-Supervised Learning Of Discrete Speech Representations**, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=rylwJxrYDS)
 - **Unsupervised Learning Of Efficient And Robust Speech Representations**, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=HJe-blSYvH)
+- Vision As An Interlingua: Learning Multilingual Semantic Embeddings Of Untranscribed Speech, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1804.03052.pdf)
 
 
 ### Emotion Recognition
