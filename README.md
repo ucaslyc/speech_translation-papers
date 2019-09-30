@@ -57,6 +57,7 @@ This is a paper list for speech translation.
 - Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation, TACL-2019, [[paper]](https://arxiv.org/pdf/1904.07209)
 - End-to-End Speech Translation with Knowledge Distillation, InterSpeech-2019, [[paper]](https://arxiv.org/pdf/1904.08075)
 - Fluent Translations from Disfluent Speech in End-to-End Speech Translation, NAACL-2019, [[paper]](https://arxiv.org/pdf/1906.00556)
+- Pre-Training On High-Resource Speech Recognition Improves Low-Resource Speech-To-Text Translation, NAACL-2019, [[[paper]](https://arxiv.org/pdf/1809.01431.pdf)
 - Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01199)
 - Leveraging Out-of-Task Data for End-to-End Automatic Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.06515.pdf)
 - Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.07575.pdf)
