@@ -59,7 +59,7 @@ This is a paper list for speech translation.
 - Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings, EMNLP-2019, [[paper]]()
 - INMT: Interactive Neural Machine Translation Prediction, EMNLP-2019, [[paper]]()
 - Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level NMT, EMNLP-2019, [[paper]]()
-- Investigating Multilingual NMT Representations at Scale, EMNLP-2019, [[paper]]()
+- Investigating Multilingual NMT Representations at Scale, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.02197.pdf)
 - On NMT Search Errors and Model Errors: Cat Got Your Tongue?, EMNLP-2019, [[paper]]()
 - INMT: Interactive Neural Machine Translation Prediction, EMNLP-2019, [[paper]]()
 - Joey NMT: A Minimalist NMT Toolkit for Novices, EMNLP-2019, [[paper]]()
@@ -67,7 +67,6 @@ This is a paper list for speech translation.
 - Selecting Artificially-Generated Sentences for Fine-Tuning Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.12016.pdf)
 - Improved Variational Neural Machine Translation by Promoting Mutual Information, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09237.pdf)
 - A Simple Discriminative Training Method For Machine Translation With Large-Scale Features, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09491.pdf)
-- Investigating Multilingual NMT Representations at Scale, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02197.pdf)
 - Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.05683.pdf)
 - On the use of BERT for Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.12744.pdf)
 
