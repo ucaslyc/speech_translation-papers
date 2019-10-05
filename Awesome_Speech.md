@@ -210,6 +210,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Self-Supervised Speech Recognition Via Local Prior Matching**, Arxiv-2019, [[paper]](https://openreview.net/pdf?id=rJlDO64KPH)
 
+- **Self-Attention Transducers for End-to-End Speech Recognition**, Interspeech-2019, [[paper]](https://arxiv.org/pdf/1909.13037.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -340,7 +341,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
 - **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
 - **A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02188.pdf) 
-
+- **Incremental processing of noisy user utterances in the spoken language understanding task**, W-NUT-2019, [[paper]](https://arxiv.org/pdf/1909.13790.pdf)
+- **Recent Advances in End-to-End Spoken Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
 
 
 
