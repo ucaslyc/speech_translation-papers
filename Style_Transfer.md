@@ -59,10 +59,15 @@ This is a paper list for style transfer in text. It also contains some related r
 - Domain Adaptive Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09395), [[code]](https://github.com/cookielee77/DAST)
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
 - Adapting Language Models for Non-Parallel Author-Stylized Rewriting, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09962.pdf)
-- Rethinking Text Attribute Transfer: A Lexical Analysis, INLG-2019, [[paper]](https://arxiv.org/pdf/1909.12335.pdf)
+- Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/abs/1909.12928)
 
-## Evaluation
+# Semi-supervised
+- Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.11493.pdf)
+
+## Evaluation and Analysis
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
+- Rethinking Text Attribute Transfer: A Lexical Analysis, INLG-2019, [[paper]](https://arxiv.org/pdf/1909.12335.pdf), [[code]](https://github.com/FranxYao/pivot_analysis)
+- Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation (WNGT), 2019, [[paper]](https://arxiv.org/abs/1810.11878.pdf)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
@@ -74,7 +79,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
 - ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.06564)
-- Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.11493.pdf)
+
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
