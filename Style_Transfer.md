@@ -60,6 +60,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
 - Adapting Language Models for Non-Parallel Author-Stylized Rewriting, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09962.pdf)
 - Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/abs/1909.12928)
+- A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI-2019, [[paper]](https://arxiv.org/pdf/1905.10060.pdf), [[code]](https://github.com/luofuli/DualRL)
 
 # Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP-2019, [[paper]](https://arxiv.org/pdf/1909.11493.pdf)
