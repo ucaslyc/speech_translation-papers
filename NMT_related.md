@@ -69,7 +69,8 @@ This is a paper list for speech translation.
 - A Simple Discriminative Training Method For Machine Translation With Large-Scale Features, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.09491.pdf)
 - Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.05683.pdf)
 - On the use of BERT for Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.12744.pdf)
-
+- Regressing Word and Sentence Embeddings for Regularization of Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13466.pdf), [[code]](https://github.com/ijauregiCMCRC/ReWE_and_ReSE)
+- The Source-Target Domain Mismatch Problem in Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13151.pdf)
 
 
 ## Non-autogressive Machine Translation
