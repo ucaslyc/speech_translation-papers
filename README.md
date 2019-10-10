@@ -69,6 +69,7 @@ This is a paper list for speech translation.
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
+- One-To-Many Multilingual End-To-End Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
 
 ## Streaming MT
 - Simultaneous translation of lectures and speeches, Machine Translation-2007, [[paper]](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)
