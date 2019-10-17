@@ -21,6 +21,7 @@ This is a paper list for speech translation.
 - A Small Griko-Italian Speech Translation Corpus, SLTU-2019, [[paper]](https://arxiv.org/pdf/1807.10740.pdf)
 - MuST-C: a Multilingual Speech Translation Corpus, NAACL-2019, [[paper]](https://www.aclweb.org/anthology/N19-1202)
 - MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1907.12895v2.pdf)
+- How2: A Large-scale Dataset for Multimodal Language Understanding, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1811.00347.pdf)
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
@@ -33,6 +34,7 @@ This is a paper list for speech translation.
 - Lattice Transformer for Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.05551.pdf)
 - Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
 - Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
+- Neural machine translation with acoustic embedding, ASRU-2019
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
@@ -63,13 +65,14 @@ This is a paper list for speech translation.
 - Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.07575.pdf)
 - Adapting Transformer to End-to-end Spoken Language Translation, InterSpeech-2019, [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3045.pdf)
 - Unsupervised phonetic and word level discovery for speech to speech translation for unwritten languages, InterSpeech-2019, [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3026.pdf)
-- Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review)[[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
-- Speech-To-Speech Translation Between Untranscribed Unknown Languages, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
+- Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
+- Speech-To-Speech Translation Between Untranscribed Unknown Languages, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
+- A comparative study on end-to-end speech to text translation, ASRU-2019
 
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
-- One-To-Many Multilingual End-To-End Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
+- One-To-Many Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
 
 ## Streaming MT
 - Simultaneous translation of lectures and speeches, Machine Translation-2007, [[paper]](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)
@@ -88,9 +91,16 @@ This is a paper list for speech translation.
 - STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework, ACL-2019, [[paper]](https://arxiv.org/abs/1810.08398)
 - Simultaneous Translation with Flexible Policy via Restricted Imitation Learning, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01135.pdf)
 - Monotonic Infinite Lookback Attention for Simultaneous Machine Translation, ACL-2019, [[paper]](https://www.aclweb.org/anthology/P19-1126)
-- Thinking Slow about Latency Evaluation for Simultaneous Machine Translation, Arxiv 2019, [[paper]](https://arxiv.org/pdf/1906.00048.pdf)
-- DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting, Arxiv 2019, [[paper]](https://arxiv.org/abs/1907.12984)
+- Thinking Slow about Latency Evaluation for Simultaneous Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.00048.pdf)
+- DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting, Arxiv-2019, [[paper]](https://arxiv.org/abs/1907.12984)
 - Monotonic Multihead Attention, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=Hyg96gBKPS)
+
+# Spoken Language Understanding
+- Adapting pretrained transformer to lattices for spoken language understanding, ASRU-2019
+- Efficient semi-supervised learning for natural language understanding by optimizing diversity, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.04196.pdf)
+- Joint learning of word and label embeddings for sequence labelling in spoken language understanding, ASRU-2019, [[paper]](https://128.84.21.199/pdf/1910.07150.pdf)
+- Transfer learning for context-aware spoken language understanding, ASRU-2019
+- 
 
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
