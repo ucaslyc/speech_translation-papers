@@ -22,6 +22,8 @@ This is a paper list for speech translation.
 - MuST-C: a Multilingual Speech Translation Corpus, NAACL-2019, [[paper]](https://www.aclweb.org/anthology/N19-1202)
 - MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1907.12895v2.pdf)
 - How2: A Large-scale Dataset for Multimodal Language Understanding, NIPS-2018, [[paper]](https://arxiv.org/pdf/1811.00347.pdf)
+- LibriVoxDeEn: A Corpus for German-to-English Speech Translation and Speech Recognition, LREC-2020, [[paper]](https://arxiv.org/pdf/1910.07924.pdf)
+
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
