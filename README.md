@@ -71,6 +71,7 @@ This is a paper list for speech translation.
 - Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
 - Speech-To-Speech Translation Between Untranscribed Unknown Languages, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
 - A comparative study on end-to-end speech to text translation, ASRU-2019
+- Instance-Based Model Adaptation For Direct Speech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10663.pdf)
 
 
 ## Multilingual ST
