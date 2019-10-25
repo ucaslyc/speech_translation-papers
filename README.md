@@ -38,6 +38,7 @@ This is a paper list for speech translation.
 - Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
 - Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 - Neural machine translation with acoustic embedding, ASRU-2019
+- Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10238.pdf)
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
