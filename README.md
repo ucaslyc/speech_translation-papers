@@ -73,6 +73,7 @@ This is a paper list for speech translation.
 - Speech-To-Speech Translation Between Untranscribed Unknown Languages, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
 - A comparative study on end-to-end speech to text translation, ASRU-2019
 - Instance-Based Model Adaptation For Direct Speech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10663.pdf)
+- Analyzing Asr Pretraining For Low-Resource Speech-To-Text Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10762.pdf)
 
 
 ## Multilingual ST
