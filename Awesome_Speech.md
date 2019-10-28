@@ -211,6 +211,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Self-Supervised Speech Recognition Via Local Prior Matching**, Arxiv-2019, [[paper]](https://openreview.net/pdf?id=rJlDO64KPH)
 
 - **Self-Attention Transducers for End-to-End Speech Recognition**, Interspeech-2019, [[paper]](https://arxiv.org/pdf/1909.13037.pdf)
+- **L2Rs: A Learning-To-Rescore Mechanism For Automatic Speech Recognition**, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11496.pdf)
+- **An Empirical Study Of Efficient Asr Rescoring With Transformers**, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11450.pdf)
+- Recognizing Long-Form Speech Using Streaming End-To-End Models, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11455.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -307,6 +310,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 
 - **Adversarially Trained End-to-end Korean Singing Voice Synthesis System**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1908.01919.pdf)
+- Espnet-Tts: Unified, Reproducible, And Integratable Open Source End-To-End Text-To-Speech Toolkit, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10909.pdf)
 
 
 
@@ -355,6 +359,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Vq-Wav2Vec: Self-Supervised Learning Of Discrete Speech Representations**, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=rylwJxrYDS)
 - **Unsupervised Learning Of Efficient And Robust Speech Representations**, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=HJe-blSYvH)
 - Vision As An Interlingua: Learning Multilingual Semantic Embeddings Of Untranscribed Speech, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1804.03052.pdf)
+- Speechbert: Cross-Modal Pre-Trained Language Model For End-To-End Spoken Question Answering, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11559.pdf)
 
 
 ### Emotion Recognition
