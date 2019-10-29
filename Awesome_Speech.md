@@ -214,6 +214,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **L2Rs: A Learning-To-Rescore Mechanism For Automatic Speech Recognition**, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11496.pdf)
 - **An Empirical Study Of Efficient Asr Rescoring With Transformers**, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11450.pdf)
 - Recognizing Long-Form Speech Using Streaming End-To-End Models, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11455.pdf)
+- Towards Online End-To-End Transformer Automatic Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11871.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -233,6 +234,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
 
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
+
 
 
 ### Voice Conversion
@@ -347,6 +349,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02188.pdf) 
 - **Incremental processing of noisy user utterances in the spoken language understanding task**, W-NUT-2019, [[paper]](https://arxiv.org/pdf/1909.13790.pdf)
 - **Recent Advances in End-to-End Spoken Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
+- Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
 
 
 
@@ -360,6 +363,14 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Unsupervised Learning Of Efficient And Robust Speech Representations**, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=HJe-blSYvH)
 - Vision As An Interlingua: Learning Multilingual Semantic Embeddings Of Untranscribed Speech, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1804.03052.pdf)
 - Speechbert: Cross-Modal Pre-Trained Language Model For End-To-End Spoken Question Answering, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11559.pdf)
+- Towards Unsupervised Speech Recognition And Synthesis With Quantized Speech Representation Learning, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12729.pdf)
+- Training Asr Models By Generation Of Contextual Information, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12367.pdf)
+- Mockingjay: Unsupervised Speech Representation Learning With Deep Bidirectional Transformer Encoders, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12638.pdf)
+- Generative Pre-Training For Speech With Autoregressive Predictive Coding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12607.pdf)
+- Unsupervised Pre-Training For Sequence To Sequence Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12418.pdf)
+- Meta Learning For End-To-End Low-Resource Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12094.pdf)
+
+
 
 
 ### Emotion Recognition
