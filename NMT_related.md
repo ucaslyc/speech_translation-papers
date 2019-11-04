@@ -72,6 +72,7 @@ This is a paper list for speech translation.
 - Regressing Word and Sentence Embeddings for Regularization of Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13466.pdf), [[code]](https://github.com/ijauregiCMCRC/ReWE_and_ReSE)
 - The Source-Target Domain Mismatch Problem in Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13151.pdf)
 - An Empirical Study of Generation Order for Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.13437.pdf)
+- CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.00359.pdf)
 
 
 ## Non-autogressive Machine Translation
