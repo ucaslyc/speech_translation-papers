@@ -39,6 +39,7 @@ This is a paper list for speech translation.
 - Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 - Neural machine translation with acoustic embedding, ASRU-2019
 - Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10238.pdf)
+- Machine Translation in Pronunciation Space, Arxiv-2020, [[paper]](https://arxiv.org/pdf/1911.00932.pdf)
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
@@ -76,7 +77,6 @@ This is a paper list for speech translation.
 - Analyzing Asr Pretraining For Low-Resource Speech-To-Text Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10762.pdf)
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
 - Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.06515v2.pdf)
-
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
