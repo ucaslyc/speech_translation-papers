@@ -5,6 +5,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 ## Paper List
 
+### Datasets
+- Cn-Celeb: A Challenging Chinese Speaker Recognition Dataset, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.01799.pdf)
+
 ### Automatic Speech Recognition
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
 
