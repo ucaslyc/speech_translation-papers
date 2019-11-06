@@ -218,6 +218,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **An Empirical Study Of Efficient Asr Rescoring With Transformers**, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11450.pdf)
 - Recognizing Long-Form Speech Using Streaming End-To-End Models, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11455.pdf)
 - Towards Online End-To-End Transformer Automatic Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11871.pdf)
+- Lead2Gold: Towards Exploiting The Full Potential Of Noisy Transcriptions For Speech Recognition, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.07323.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -317,7 +318,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Adversarially Trained End-to-end Korean Singing Voice Synthesis System**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1908.01919.pdf)
 - Espnet-Tts: Unified, Reproducible, And Integratable Open Source End-To-End Text-To-Speech Toolkit, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10909.pdf)
 
-
+- MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis, NIPS-2019, [[paper]](https://arxiv.org/pdf/1910.06711.pdf)
 
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
@@ -353,8 +354,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Incremental processing of noisy user utterances in the spoken language understanding task**, W-NUT-2019, [[paper]](https://arxiv.org/pdf/1909.13790.pdf)
 - **Recent Advances in End-to-End Spoken Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
 - Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
-
-
+- Joint Learning Of Word And Label Embeddings For Sequence Labelling In Spoken Language Understanding, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.07150.pdf)
 
 ### Speech Segmentation
 - **An Embedded Segmental K-means Model for Unsupervised Segmentation And Clustering Of Speech**, Arxiv-2017, [[paper]](https://arxiv.org/pdf/1703.08135.pdf)
