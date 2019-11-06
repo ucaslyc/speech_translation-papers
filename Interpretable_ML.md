@@ -1,4 +1,7 @@
 # Paper list
+- “Why Should I Trust You?” Explaining the Predictions of Any Classifier, KDD-2016, [[paper]](http://sameersingh.org/files/papers/lime-kdd16.pdf)
+- A Survey Of Methods For Explaining Black Box Models, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1802.01933.pdf)
+- What Does BERT Look At? An Analysis of BERT’s Attention[[paper]](https://nlp.stanford.edu/pubs/clark2019what.pdf), [[code]](https://github.com/jessevig/bertviz)
 - Interpretable Text Classification Using CNN and Max-pooling, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.11236.pdf)
 - Open the Boxes of Words: Incorporating Sememes into Textual Adversarial Attack, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.12196.pdf)
 - Analysing Coreference in Transformer Outputs, DiscoMT-2019, [[paper]](https://arxiv.org/pdf/1911.01188.pdf)
