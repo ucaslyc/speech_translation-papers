@@ -77,7 +77,7 @@ This is a paper list for speech translation.
 
 ## Non-autogressive Machine Translation
 - Pnat: Non-Autoregressive Transformer By Position Learning, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=BJe932EYwS)
-
+- Understanding Knowledge Distillation In Non-Autoregressive Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02727.pdf)
 
 
 ## Robust Machine Translation
