@@ -24,6 +24,7 @@ This is a paper list for speech translation.
 - How2: A Large-scale Dataset for Multimodal Language Understanding, NIPS-2018, [[paper]](https://arxiv.org/pdf/1811.00347.pdf)
 - LibriVoxDeEn: A Corpus for German-to-English Speech Translation and Speech Recognition, LREC-2020, [[paper]](https://arxiv.org/pdf/1910.07924.pdf)
 - Clotho: An Audio Captioning Dataset, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.09387.pdf)
+- Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
 
 
 ## Pipeline ST
@@ -78,6 +79,7 @@ This is a paper list for speech translation.
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
 - Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.06515v2.pdf)
 
+
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
 - One-To-Many Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
@@ -105,6 +107,7 @@ This is a paper list for speech translation.
 - Thinking Slow about Latency Evaluation for Simultaneous Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.00048.pdf)
 - DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting, Arxiv-2019, [[paper]](https://arxiv.org/abs/1907.12984)
 - Monotonic Multihead Attention, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=Hyg96gBKPS)
+- How To Do Simultaneous Translation Better With Consecutive Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03154.pdf)
 
 # Spoken Language Understanding
 - Adapting pretrained transformer to lattices for spoken language understanding, ASRU-2019
