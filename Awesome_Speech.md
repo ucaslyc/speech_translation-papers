@@ -338,7 +338,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Exploring the limits of language modeling**(2016), R Jozefowicz et al. [[pdf]](https://arxiv.org/pdf/1602.02410)
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
-
+- Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Framework, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02750.pdf)
+- Teacher-Student Training For Robust Tacotron-Based TTS, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02839.pdf)
 
 
 ### Music Modelling
