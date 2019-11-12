@@ -374,17 +374,16 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - Unsupervised Pre-Training For Sequence To Sequence Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12418.pdf)
 - Meta Learning For End-To-End Low-Resource Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12094.pdf)
 
-
-
-
 ### Emotion Recognition
 - **Learning Alignment for Multimodal Emotion Recognition from Speech**, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
 
-
-
+### Text Normalization
+- A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
+- A Unified Sequence-To-Sequence Front-End Model For Mandarin Text-To-Speech Synthesis, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04111.pdf)
 
 ### Interesting papers
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
+
