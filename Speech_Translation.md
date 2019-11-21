@@ -80,6 +80,7 @@ This is a paper list for speech translation.
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
 - Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.06515v2.pdf)
 - Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.04283.pdf)
+- On Using SpecAugment for End-to-End Speech Translation, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1911.08876.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
