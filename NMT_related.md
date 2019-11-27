@@ -73,6 +73,7 @@ This is a paper list for speech translation.
 - The Source-Target Domain Mismatch Problem in Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13151.pdf)
 - An Empirical Study of Generation Order for Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.13437.pdf)
 - CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.00359.pdf)
+- Neural Machine Translation with Explicit Phrase Alignment, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11520.pdf)
 
 
 ## Non-autogressive Machine Translation
@@ -88,3 +89,6 @@ This is a paper list for speech translation.
 - Towards Robust Neural Machine Translation, Arxiv-2018, [[paper]](Towards Robust Neural Machine Translation)
 - Robust Neural Machine Translation with Joint Textual and Phonetic Embedding, Arxiv-2018, [[paper]](https://arxiv.org/pdf/1810.06729.pdf)
 - Robust Neural Machine Translation with Doubly Adversarial Inputs, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1906.02443.pdf)
+
+## Korea
+- Korean-to-Chinese Machine Translation using Chinese Character as Pivot Clue, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11008.pdf)
