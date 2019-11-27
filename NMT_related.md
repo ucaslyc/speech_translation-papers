@@ -11,6 +11,8 @@ This is a paper list for speech translation.
 ## Homepages
 王瑞, NICT, [[homepage]](https://wangruinlp.github.io)
 
+## Model Structure
+- Factorized Multimodal Transformer For Multimodal Sequential Learning, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.09826.pdf)
 
 ## Neural Machine Translation
 - Multilingual Neural Machine Translation With Knowledge Distillation, ICLR-2019, [[paper]](https://arxiv.org/pdf/1902.10461.pdf)
