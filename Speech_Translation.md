@@ -110,6 +110,7 @@ This is a paper list for speech translation.
 - DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting, Arxiv-2019, [[paper]](https://arxiv.org/abs/1907.12984)
 - Monotonic Multihead Attention, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=Hyg96gBKPS)
 - How To Do Simultaneous Translation Better With Consecutive Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03154.pdf)
+- Simultaneous Neural Machine Translation using Connectionist Temporal Classification, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11933.pdf)
 
 # Related Work
 - Adapting pretrained transformer to lattices for spoken language understanding, ASRU-2019
