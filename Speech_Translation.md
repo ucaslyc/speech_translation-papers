@@ -74,7 +74,7 @@ This is a paper list for speech translation.
 - Unsupervised phonetic and word level discovery for speech to speech translation for unwritten languages, InterSpeech-2019, [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3026.pdf)
 - Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
 - Speech-To-Speech Translation Between Untranscribed Unknown Languages, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
-- A comparative study on end-to-end speech to text translation, ASRU-2019, [[paper]](https://www-i6.informatik.rwth-aachen.de/publications/download/1121/BaharParniaBieschkeTobiasNeyHermann--Acomparativestudyonend-to-endspeechtotexttranslation--2019.pdf)
+- A comparative study on end-to-end speech to text translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1911.08870.pdf)
 - Instance-Based Model Adaptation For Direct Speech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10663.pdf)
 - Analyzing Asr Pretraining For Low-Resource Speech-To-Text Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10762.pdf)
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
