@@ -220,6 +220,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - Recognizing Long-Form Speech Using Streaming End-To-End Models, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11455.pdf)
 - Towards Online End-To-End Transformer Automatic Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.11871.pdf)
 - Lead2Gold: Towards Exploiting The Full Potential Of Noisy Transcriptions For Speech Recognition, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.07323.pdf)
+- Automatic Spelling Correction with Transformer for CTC-based End-to-End Speech Recognition, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1904.10045.pdf)
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
