@@ -5,7 +5,6 @@ This is a paper list for speech translation.
 
 # Paper List
 
-
 ## Dataset
 - Construction and Utilization of Bilingual Speech Corpus for Simultaneous Machine Interpretation Research, InterSpeech-2005,[[paper]](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1585.pdf)
 - Approach to Corpus-based Interpreting Studies: Developing EPIC (European Parliament Interpreting Corpus), MuTra-2005, [[paper]](http://www.euroconferences.info/proceedings/2005_Proceedings/2005_Bendazzoli_Sandrelli.pdf)
@@ -25,7 +24,6 @@ This is a paper list for speech translation.
 - LibriVoxDeEn: A Corpus for German-to-English Speech Translation and Speech Recognition, LREC-2020, [[paper]](https://arxiv.org/pdf/1910.07924.pdf)
 - Clotho: An Audio Captioning Dataset, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.09387.pdf)
 - Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
-
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
@@ -111,13 +109,25 @@ This is a paper list for speech translation.
 - Monotonic Multihead Attention, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=Hyg96gBKPS)
 - How To Do Simultaneous Translation Better With Consecutive Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03154.pdf)
 - Simultaneous Neural Machine Translation using Connectionist Temporal Classification, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11933.pdf)
+- Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
 
-# Related Work
+# Related Works
+## Spoken Language Understanding
+- Understanding Semantics from Speech Through Pre-training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
+- Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
+- A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02188.pdf) 
+- Incremental processing of noisy user utterances in the spoken language understanding task, W-NUT-2019, [[paper]](https://arxiv.org/pdf/1909.13790.pdf)
 - Adapting pretrained transformer to lattices for spoken language understanding, ASRU-2019
 - Efficient semi-supervised learning for natural language understanding by optimizing diversity, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.04196.pdf)
 - Joint learning of word and label embeddings for sequence labelling in spoken language understanding, ASRU-2019, [[paper]](https://128.84.21.199/pdf/1910.07150.pdf)
 - Transfer learning for context-aware spoken language understanding, ASRU-2019
 - Speech Sentiment Analysis Via Pre-Trained Features From End-To-End Asr Models, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.09762.pdf)
+- Recent Advances in End-to-End Spoken Language Understanding, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
+- Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
+
+## Text Normalization
+- A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
+- A Unified Sequence-To-Sequence Front-End Model For Mandarin Text-To-Speech Synthesis, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04111.pdf)
 
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
