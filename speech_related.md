@@ -241,15 +241,6 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 
-
-
-### Voice Conversion
-- **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
-- **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
-- **AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss**(2019), Kaizhi Qian et al. [[pdf]](http://proceedings.mlr.press/v97/qian19c.html)
-- **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**(2019), Andy T. Liu et al. [[pdf]](https://arxiv.org/pdf/1905.11563)
-
-
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
 
@@ -322,6 +313,13 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis, NIPS-2019, [[paper]](https://arxiv.org/pdf/1910.06711.pdf)
 
+- Teacher-Student Training For Robust Tacotron-Based TTS, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02839.pdf)
+
+- **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
+- **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
+- **AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss**(2019), Kaizhi Qian et al. [[pdf]](http://proceedings.mlr.press/v97/qian19c.html)
+- **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**(2019), Andy T. Liu et al. [[pdf]](https://arxiv.org/pdf/1905.11563)
+
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
 
@@ -341,28 +339,12 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 - Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Framework, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02750.pdf)
-- Teacher-Student Training For Robust Tacotron-Based TTS, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.02839.pdf)
-
 
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
-
-
-
-### Spoken Language Understanding
-- **Understanding Semantics from Speech Through Pre-training**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10924.pdf)
-- **Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.10861.pdf)
-- **A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding**, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.02188.pdf) 
-- **Incremental processing of noisy user utterances in the spoken language understanding task**, W-NUT-2019, [[paper]](https://arxiv.org/pdf/1909.13790.pdf)
-- **Recent Advances in End-to-End Spoken Language Understanding**, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
-- Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
-- Joint Learning Of Word And Label Embeddings For Sequence Labelling In Spoken Language Understanding, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.07150.pdf)
-
 ### Speech Segmentation
 - **An Embedded Segmental K-means Model for Unsupervised Segmentation And Clustering Of Speech**, Arxiv-2017, [[paper]](https://arxiv.org/pdf/1703.08135.pdf)
-
-
 
 ### Speech Representations
 - **Vq-Wav2Vec: Self-Supervised Learning Of Discrete Speech Representations**, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=rylwJxrYDS)
@@ -376,18 +358,14 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - Unsupervised Pre-Training For Sequence To Sequence Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12418.pdf)
 - Meta Learning For End-To-End Low-Resource Speech Recognition, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12094.pdf)
 
-### Emotion Recognition
-- **Learning Alignment for Multimodal Emotion Recognition from Speech**, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
-
-### Text Normalization
-- A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
-- A Unified Sequence-To-Sequence Front-End Model For Mandarin Text-To-Speech Synthesis, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04111.pdf)
-
-### Interesting papers
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
+
+### Interesting papers
+
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 - **The Phonetic Bases Of Vocal Expressed Emotion: Natural Versus Acted**, Arxiv-2019, [[pdf](https://arxiv.org/pdf/1911.05733.pdf)
 
+- **Learning Alignment for Multimodal Emotion Recognition from Speech**, Arxiv-2019-Didi, [[paper]](https://arxiv.org/pdf/1909.05645.pdf)
