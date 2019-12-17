@@ -35,11 +35,13 @@ This is a paper list for speech translation.
 - Assessing the Tolerance of Neural Machine Translation Systems Against Speech Recognition Errors, InterSpeech-2019, [[paper]](https://arxiv.org/pdf/1904.10997.pdf)
 - Lattice Transformer for Speech Translation, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.05551.pdf)
 - Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
-- Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
+- Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 - Neural machine translation with acoustic embedding, ASRU-2019
 - Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10238.pdf)
 - Machine Translation in Pronunciation Space, Arxiv-2020, [[paper]](https://arxiv.org/pdf/1911.00932.pdf)
 - Diversity by Phonetics and its Application in Neural Machine Translation, AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04292.pdf)
+- Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, IWSLT-2019, [[paper]](https://zenodo.org/record/3524947#.XfiAu5MzbGJ)
+
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
