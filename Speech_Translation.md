@@ -37,10 +37,10 @@ This is a paper list for speech translation.
 - Self-Attentional Models for Lattice Inputs, ACL-2019, [[paper]](https://arxiv.org/pdf/1906.01617.pdf)
 - Breaking the Data Barrier: Towards Robust Speech Translation via Adversarial Stability Training, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.11430.pdf)
 - Neural machine translation with acoustic embedding, ASRU-2019
-- Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10238.pdf)
 - Machine Translation in Pronunciation Space, Arxiv-2020, [[paper]](https://arxiv.org/pdf/1911.00932.pdf)
 - Diversity by Phonetics and its Application in Neural Machine Translation, AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04292.pdf)
 - Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, IWSLT-2019, [[paper]](https://zenodo.org/record/3524947#.XfiAu5MzbGJ)
+
 
 
 ## End-to-end ST 
@@ -82,6 +82,7 @@ This is a paper list for speech translation.
 - Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.04283.pdf)
 - On Using SpecAugment for End-to-End Speech Translation, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1911.08876.pdf)
 - Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding, AAAI-2020, [[paper]](https://arxiv.org/abs/1912.07240)
+- From Speech-To-Speech Translation To Automatic Dubbing, Arxiv-2020, [[paper]](https://arxiv.org/abs/2001.06785)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -135,6 +136,9 @@ This is a paper list for speech translation.
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
 - IWSLT 2019, [[link]](http://workshop2019.iwslt.org/)
+- IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start)
+- AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/)
+
 
 # Copyright 
 By volunteers from Institute of Automation，Chinese Academy of Sciences.  
