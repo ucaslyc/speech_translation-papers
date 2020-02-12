@@ -115,6 +115,7 @@ This is a paper list for speech translation.
 - How To Do Simultaneous Translation Better With Consecutive Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03154.pdf)
 - Simultaneous Neural Machine Translation using Connectionist Temporal Classification, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11933.pdf)
 - Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
+- Learning Coupled Policies for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.04306)
 
 # Related Works
 ## Spoken Language Understanding
