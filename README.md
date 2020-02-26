@@ -25,6 +25,7 @@ This is a paper list for speech translation.
 - Clotho: An Audio Captioning Dataset, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.09387.pdf)
 - Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
 - CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.01320)
+- MuST-Cinema: a Speech-to-Subtitles corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.10829)
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
