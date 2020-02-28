@@ -85,6 +85,7 @@ This is a paper list for speech translation.
 - On Using SpecAugment for End-to-End Speech Translation, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1911.08876.pdf)
 - Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding, AAAI-2020, [[paper]](https://arxiv.org/abs/1912.07240)
 - From Speech-To-Speech Translation To Automatic Dubbing, Arxiv-2020, [[paper]](https://arxiv.org/abs/2001.06785)
+- Skinaugment: Auto-Encoding Speaker Conversions For Automaticspeech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.12231)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
